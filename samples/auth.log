@@ -1,0 +1,82 @@
+Sep 21 02:14:00 web-01 sshd[4100]: Accepted password for root from 185.220.101.44 port 52001 ssh2
+Sep 21 02:14:02 web-01 sshd[4100]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Sep 21 03:05:00 web-01 sshd[1000]: Accepted publickey for abdullah from 39.41.2.9 port 40000 ssh2
+Sep 21 03:05:01 web-01 sshd[1000]: pam_unix(sshd:session): session opened for user abdullah by (uid=0)
+Sep 21 03:12:00 web-01 sshd[1001]: Accepted publickey for sara from 39.41.2.9 port 40001 ssh2
+Sep 21 03:12:01 web-01 sshd[1001]: pam_unix(sshd:session): session opened for user sara by (uid=0)
+Sep 21 03:19:00 web-01 sshd[1002]: Accepted publickey for bilal from 39.41.2.9 port 40002 ssh2
+Sep 21 03:19:01 web-01 sshd[1002]: pam_unix(sshd:session): session opened for user bilal by (uid=0)
+Sep 21 03:40:00 web-01 sshd[1207]: Failed password for sara from 39.41.2.9 port 41000 ssh2
+Sep 21 03:40:20 web-01 sshd[1207]: Failed password for sara from 39.41.2.9 port 41001 ssh2
+Sep 21 03:41:00 web-01 sshd[1207]: Accepted password for sara from 39.41.2.9 port 41010 ssh2
+Sep 21 04:22:00 web-01 sshd[2000]: Invalid user admin from 45.83.91.22 port 50000
+Sep 21 04:22:01 web-01 sshd[2000]: Failed password for invalid user admin from 45.83.91.22 port 50000 ssh2
+Sep 21 04:22:04 web-01 sshd[2001]: Invalid user test from 45.83.91.22 port 50001
+Sep 21 04:22:05 web-01 sshd[2001]: Failed password for invalid user test from 45.83.91.22 port 50001 ssh2
+Sep 21 04:22:08 web-01 sshd[2002]: Invalid user oracle from 45.83.91.22 port 50002
+Sep 21 04:22:09 web-01 sshd[2002]: Failed password for invalid user oracle from 45.83.91.22 port 50002 ssh2
+Sep 21 04:22:12 web-01 sshd[2003]: Invalid user ubuntu from 45.83.91.22 port 50003
+Sep 21 04:22:13 web-01 sshd[2003]: Failed password for invalid user ubuntu from 45.83.91.22 port 50003 ssh2
+Sep 21 04:22:16 web-01 sshd[2004]: Invalid user jenkins from 45.83.91.22 port 50004
+Sep 21 04:22:17 web-01 sshd[2004]: Failed password for invalid user jenkins from 45.83.91.22 port 50004 ssh2
+Sep 21 04:22:20 web-01 sshd[2005]: Invalid user git from 45.83.91.22 port 50005
+Sep 21 04:22:21 web-01 sshd[2005]: Failed password for invalid user git from 45.83.91.22 port 50005 ssh2
+Sep 21 04:22:24 web-01 sshd[2006]: Invalid user postgres from 45.83.91.22 port 50006
+Sep 21 04:22:25 web-01 sshd[2006]: Failed password for invalid user postgres from 45.83.91.22 port 50006 ssh2
+Sep 21 04:22:28 web-01 sshd[2007]: Invalid user backup from 45.83.91.22 port 50007
+Sep 21 04:22:29 web-01 sshd[2007]: Failed password for invalid user backup from 45.83.91.22 port 50007 ssh2
+Sep 21 04:31:00 web-01 sshd[3000]: Failed password for deploy from 45.83.91.22 port 51000 ssh2
+Sep 21 04:31:03 web-01 sshd[3001]: Failed password for root from 45.83.91.22 port 51001 ssh2
+Sep 21 04:31:06 web-01 sshd[3002]: Failed password for deploy from 45.83.91.22 port 51002 ssh2
+Sep 21 04:31:09 web-01 sshd[3003]: Failed password for root from 45.83.91.22 port 51003 ssh2
+Sep 21 04:31:12 web-01 sshd[3004]: Failed password for deploy from 45.83.91.22 port 51004 ssh2
+Sep 21 04:31:15 web-01 sshd[3005]: Failed password for root from 45.83.91.22 port 51005 ssh2
+Sep 21 04:31:18 web-01 sshd[3006]: Failed password for deploy from 45.83.91.22 port 51006 ssh2
+Sep 21 04:31:21 web-01 sshd[3007]: Failed password for root from 45.83.91.22 port 51007 ssh2
+Sep 21 04:31:24 web-01 sshd[3008]: Failed password for deploy from 45.83.91.22 port 51008 ssh2
+Sep 21 04:31:27 web-01 sshd[3009]: Failed password for root from 45.83.91.22 port 51009 ssh2
+Sep 21 04:31:30 web-01 sshd[3010]: Failed password for deploy from 45.83.91.22 port 51010 ssh2
+Sep 21 04:31:33 web-01 sshd[3011]: Failed password for root from 45.83.91.22 port 51011 ssh2
+Sep 21 04:31:36 web-01 sshd[3012]: Failed password for deploy from 45.83.91.22 port 51012 ssh2
+Sep 21 04:31:39 web-01 sshd[3013]: Failed password for root from 45.83.91.22 port 51013 ssh2
+Sep 21 04:31:42 web-01 sshd[3014]: Failed password for deploy from 45.83.91.22 port 51014 ssh2
+Sep 21 04:31:45 web-01 sshd[3015]: Failed password for root from 45.83.91.22 port 51015 ssh2
+Sep 21 04:31:48 web-01 sshd[3016]: Failed password for deploy from 45.83.91.22 port 51016 ssh2
+Sep 21 04:31:51 web-01 sshd[3017]: Failed password for root from 45.83.91.22 port 51017 ssh2
+Sep 21 04:31:54 web-01 sshd[3018]: Failed password for deploy from 45.83.91.22 port 51018 ssh2
+Sep 21 04:31:57 web-01 sshd[3019]: Failed password for root from 45.83.91.22 port 51019 ssh2
+Sep 21 04:32:00 web-01 sshd[3020]: Failed password for deploy from 45.83.91.22 port 51020 ssh2
+Sep 21 04:32:03 web-01 sshd[3021]: Failed password for root from 45.83.91.22 port 51021 ssh2
+Sep 21 04:32:06 web-01 sshd[3022]: Failed password for deploy from 45.83.91.22 port 51022 ssh2
+Sep 21 04:32:09 web-01 sshd[3023]: Failed password for root from 45.83.91.22 port 51023 ssh2
+Sep 21 04:32:12 web-01 sshd[3024]: Failed password for deploy from 45.83.91.22 port 51024 ssh2
+Sep 21 04:32:15 web-01 sshd[3025]: Failed password for root from 45.83.91.22 port 51025 ssh2
+Sep 21 04:32:18 web-01 sshd[3026]: Failed password for deploy from 45.83.91.22 port 51026 ssh2
+Sep 21 04:32:21 web-01 sshd[3027]: Failed password for root from 45.83.91.22 port 51027 ssh2
+Sep 21 04:32:24 web-01 sshd[3028]: Failed password for deploy from 45.83.91.22 port 51028 ssh2
+Sep 21 04:32:27 web-01 sshd[3029]: Failed password for root from 45.83.91.22 port 51029 ssh2
+Sep 21 04:32:30 web-01 sshd[3030]: Failed password for deploy from 45.83.91.22 port 51030 ssh2
+Sep 21 04:32:33 web-01 sshd[3031]: Failed password for root from 45.83.91.22 port 51031 ssh2
+Sep 21 04:32:36 web-01 sshd[3032]: Failed password for deploy from 45.83.91.22 port 51032 ssh2
+Sep 21 04:32:39 web-01 sshd[3033]: Failed password for root from 45.83.91.22 port 51033 ssh2
+Sep 21 04:32:42 web-01 sshd[3034]: Failed password for deploy from 45.83.91.22 port 51034 ssh2
+Sep 21 04:32:45 web-01 sshd[3035]: Failed password for root from 45.83.91.22 port 51035 ssh2
+Sep 21 04:32:48 web-01 sshd[3036]: Failed password for deploy from 45.83.91.22 port 51036 ssh2
+Sep 21 04:32:51 web-01 sshd[3037]: Failed password for root from 45.83.91.22 port 51037 ssh2
+Sep 21 04:32:54 web-01 sshd[3038]: Failed password for deploy from 45.83.91.22 port 51038 ssh2
+Sep 21 04:32:57 web-01 sshd[3039]: Failed password for root from 45.83.91.22 port 51039 ssh2
+Sep 21 04:33:30 web-01 sshd[3210]: Accepted password for deploy from 45.83.91.22 port 51500 ssh2
+Sep 21 04:33:31 web-01 sshd[3210]: pam_unix(sshd:session): session opened for user deploy by (uid=0)
+Sep 21 04:41:00 web-01 sudo:   deploy : TTY=pts/0 ; PWD=/home/deploy ; USER=root ; COMMAND=/usr/bin/id
+Sep 21 04:42:00 web-01 sudo:   deploy : 3 incorrect password attempts ; TTY=pts/0 ; PWD=/home/deploy ; USER=root ; COMMAND=/usr/bin/cat /etc/shadow
+Sep 21 04:42:30 web-01 sshd[3400]: Accepted password for deploy from 39.41.2.9 port 51999 ssh2
+Sep 21 04:44:00 web-01 sudo:   deploy : TTY=pts/0 ; PWD=/home/deploy ; USER=root ; COMMAND=/usr/bin/cat /etc/shadow
+Sep 21 04:45:00 web-01 sudo:   deploy : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/bash -c history -c
+Sep 21 04:46:00 web-01 sudo:   guest : user NOT in sudoers ; TTY=pts/1 ; PWD=/tmp ; USER=root ; COMMAND=/bin/sh
+Sep 21 05:10:00 web-01 sshd[5000]: pam_unix(sshd:session): session closed for user sara
+Sep 21 05:15:00 web-01 sshd[5001]: pam_unix(sshd:session): session closed for user abdullah
+Sep 21 05:20:00 web-01 sshd[5002]: pam_unix(sshd:session): session closed for user sara
+Sep 21 05:25:00 web-01 sshd[5003]: pam_unix(sshd:session): session closed for user abdullah
+Sep 21 05:30:00 web-01 sshd[5004]: pam_unix(sshd:session): session closed for user sara
+Sep 21 05:30:00 web-01 sshd[5100]: Accepted publickey for backupsvc from 10.20.4.15 port 43000 ssh2
+Sep 21 05:35:00 web-01 sshd[5005]: pam_unix(sshd:session): session closed for user abdullah

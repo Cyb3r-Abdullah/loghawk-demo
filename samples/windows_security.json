@@ -1,0 +1,17 @@
+{"TimeCreated": "2026-09-21T03:10:00Z", "EventID": 4624, "Computer": "DC-01", "TargetUserName": "abdullah", "IpAddress": "39.41.2.9", "LogonType": 3}
+{"TimeCreated": "2026-09-21T03:16:00Z", "EventID": 4624, "Computer": "DC-01", "TargetUserName": "sara", "IpAddress": "39.41.2.9", "LogonType": 3}
+{"TimeCreated": "2026-09-21T03:22:00Z", "EventID": 4624, "Computer": "DC-01", "TargetUserName": "bilal", "IpAddress": "39.41.2.9", "LogonType": 3}
+{"TimeCreated": "2026-09-21T04:50:00Z", "EventID": 4625, "Computer": "DC-01", "TargetUserName": "administrator", "IpAddress": "185.220.101.44", "LogonType": 3, "Status": "0xC000006A"}
+{"TimeCreated": "2026-09-21T04:50:20Z", "EventID": 4625, "Computer": "DC-01", "TargetUserName": "admin", "IpAddress": "185.220.101.44", "LogonType": 3, "Status": "0xC000006A"}
+{"TimeCreated": "2026-09-21T04:50:40Z", "EventID": 4625, "Computer": "DC-01", "TargetUserName": "helpdesk", "IpAddress": "185.220.101.44", "LogonType": 3, "Status": "0xC000006A"}
+{"TimeCreated": "2026-09-21T04:51:00Z", "EventID": 4625, "Computer": "DC-01", "TargetUserName": "svc_sql", "IpAddress": "185.220.101.44", "LogonType": 3, "Status": "0xC000006A"}
+{"TimeCreated": "2026-09-21T04:51:20Z", "EventID": 4625, "Computer": "DC-01", "TargetUserName": "jdoe", "IpAddress": "185.220.101.44", "LogonType": 3, "Status": "0xC000006A"}
+{"TimeCreated": "2026-09-21T04:51:40Z", "EventID": 4625, "Computer": "DC-01", "TargetUserName": "abdullah", "IpAddress": "185.220.101.44", "LogonType": 3, "Status": "0xC000006A"}
+{"TimeCreated": "2026-09-21T04:52:00Z", "EventID": 4625, "Computer": "DC-01", "TargetUserName": "sara", "IpAddress": "185.220.101.44", "LogonType": 3, "Status": "0xC000006A"}
+{"TimeCreated": "2026-09-21T04:52:20Z", "EventID": 4625, "Computer": "DC-01", "TargetUserName": "bilal", "IpAddress": "185.220.101.44", "LogonType": 3, "Status": "0xC000006A"}
+{"TimeCreated": "2026-09-21T04:52:40Z", "EventID": 4625, "Computer": "DC-01", "TargetUserName": "guest", "IpAddress": "185.220.101.44", "LogonType": 3, "Status": "0xC000006A"}
+{"TimeCreated": "2026-09-21T05:02:00Z", "EventID": 4720, "Computer": "DC-01", "TargetUserName": "svc_backup", "SubjectUserName": "deploy"}
+{"TimeCreated": "2026-09-21T05:03:00Z", "EventID": 4728, "Computer": "DC-01", "TargetUserName": "svc_backup", "TargetGroupName": "Domain Admins", "SubjectUserName": "deploy"}
+{"TimeCreated": "2026-09-21T05:04:00Z", "EventID": 4672, "Computer": "DC-01", "TargetUserName": "svc_backup"}
+{"TimeCreated": "2026-09-21T05:06:00Z", "EventID": 4624, "Computer": "DC-01", "TargetUserName": "svc_backup", "IpAddress": "185.220.101.44", "LogonType": 10}
+{"TimeCreated": "2026-09-21T05:20:00Z", "EventID": 4740, "Computer": "DC-01", "TargetUserName": "administrator"}
