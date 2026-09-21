@@ -1,0 +1,8 @@
+# The detection engine is installed straight from the main repository, so this
+# deployment repo never holds a copy of the rules. Pin to a tag once the first
+# release is cut: ...loghawk.git@v1.0.0
+loghawk @ git+https://github.com/Cyb3r-Abdullah/loghawk.git@main
+
+# LogHawk's core is standard library only; FastAPI is needed just for the API
+# layer, and Vercel supplies the ASGI server, so uvicorn is not required here.
+fastapi>=0.110,<1.0
