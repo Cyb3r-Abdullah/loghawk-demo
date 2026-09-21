@@ -6,3 +6,10 @@ loghawk @ git+https://github.com/Cyb3r-Abdullah/loghawk.git@main
 # LogHawk's core is standard library only; FastAPI is needed just for the API
 # layer, and Vercel supplies the ASGI server, so uvicorn is not required here.
 fastapi>=0.110,<1.0
+
+# Required even though this deployment deletes the file-upload route.
+# The route is declared by a decorator in loghawk/api.py, and decorators run at
+# IMPORT time: FastAPI validates the UploadFile parameter and raises
+# "Form data requires python-multipart" before any of our code can remove it.
+# A route cannot be removed if defining it is what crashes.
+python-multipart>=0.0.9
